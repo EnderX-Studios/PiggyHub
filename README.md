@@ -14,7 +14,6 @@ Command | Description | Permission
 `/staffchat` | StaffChat Command | piggyhub.command.staffchat
 `/vanish` | Vanish Command | piggyhub.commands.vanish
 `/fly` | Fly Command | piggyhub.commands.fly
-`/fly` | Fly Command | piggyhub.commands.fly
 
 # :warning: WARNING :warning:
 - Attention The core is not completely complete, there will be Updates on the core, and one of These updates for the core Configurable
